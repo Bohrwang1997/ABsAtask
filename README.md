@@ -1,6 +1,6 @@
 # Aspect-Based Sentiment Analysis (ABSA) Project
 
-This repository contains the implementation of the Aspect-Based Sentiment Analysis (ABSA) task for the CITS4012 Natural Language Processing course project.
+This repository contains the implementation of the Aspect-Based Sentiment Analysis (ABSA) task.
 
 ## Project Overview
 
